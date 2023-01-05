@@ -1,0 +1,39 @@
+
+    .header_div{
+        background-color:rgba(211, 126, 245, 0.623);
+        width:100%;
+    }
+    .header_div p{
+        font-size:medium;
+        background-color: rgba(255, 250, 250, 0.496);
+        letter-spacing: 2px;
+        width:fit-content;
+        margin-left: 400px !important;
+    
+    }
+    .header_div h2{
+        font-family: 'Cinzel Decorative', cursive;
+    }
+    button{
+        margin-top: 20px;
+        height:40px;
+        color:black !important;
+        font-size: 24px !important;
+    }
+    .images{
+        height: 230px;
+        width:250px;
+    }
+    .footer{
+        bottom:0;
+        position:fixed;
+        color:rgb(183, 0, 255);
+        background-color:aliceblue;
+        text-align:center;
+        width:100%;
+        font-size:20px;
+        line-height:3;
+        text-shadow:rgba(136, 0, 255, 0.61) 5px 5px 5px;
+        letter-spacing:2px;
+        font-family:fantasy;
+    }
